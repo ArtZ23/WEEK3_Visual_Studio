@@ -1,0 +1,16 @@
+C:\Users\Artur\source\repos\Backend_week3\Backend_week3\bin\Debug\net5.0\Backend_week3.exe
+C:\Users\Artur\source\repos\Backend_week3\Backend_week3\bin\Debug\net5.0\Backend_week3.deps.json
+C:\Users\Artur\source\repos\Backend_week3\Backend_week3\bin\Debug\net5.0\Backend_week3.runtimeconfig.json
+C:\Users\Artur\source\repos\Backend_week3\Backend_week3\bin\Debug\net5.0\Backend_week3.runtimeconfig.dev.json
+C:\Users\Artur\source\repos\Backend_week3\Backend_week3\bin\Debug\net5.0\Backend_week3.dll
+C:\Users\Artur\source\repos\Backend_week3\Backend_week3\bin\Debug\net5.0\Backend_week3.pdb
+C:\Users\Artur\source\repos\Backend_week3\Backend_week3\obj\Debug\net5.0\Backend_week3.csproj.AssemblyReference.cache
+C:\Users\Artur\source\repos\Backend_week3\Backend_week3\obj\Debug\net5.0\Backend_week3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artur\source\repos\Backend_week3\Backend_week3\obj\Debug\net5.0\Backend_week3.AssemblyInfoInputs.cache
+C:\Users\Artur\source\repos\Backend_week3\Backend_week3\obj\Debug\net5.0\Backend_week3.AssemblyInfo.cs
+C:\Users\Artur\source\repos\Backend_week3\Backend_week3\obj\Debug\net5.0\Backend_week3.csproj.CoreCompileInputs.cache
+C:\Users\Artur\source\repos\Backend_week3\Backend_week3\obj\Debug\net5.0\Backend_week3.dll
+C:\Users\Artur\source\repos\Backend_week3\Backend_week3\obj\Debug\net5.0\refint\Backend_week3.dll
+C:\Users\Artur\source\repos\Backend_week3\Backend_week3\obj\Debug\net5.0\Backend_week3.pdb
+C:\Users\Artur\source\repos\Backend_week3\Backend_week3\obj\Debug\net5.0\Backend_week3.genruntimeconfig.cache
+C:\Users\Artur\source\repos\Backend_week3\Backend_week3\obj\Debug\net5.0\ref\Backend_week3.dll
