@@ -17,7 +17,7 @@ namespace Backend_week3
 			Console.BackgroundColor = ConsoleColor.Green;
 			Console.ForegroundColor = ConsoleColor.White;
 			Console.WriteLine("random text");
-			Console.BackgroundColor = ConsoleColor.Blue;
+			Console.ResetColor();
 		}
 	}
 }
